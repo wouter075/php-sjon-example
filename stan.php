@@ -96,6 +96,7 @@
                 // hier een foreach. Geen PHP SQL dingen. Dus een functie!
                 // dit natuurlijk overal
 //                $kerntaken = getKerntaken();
+            // [id] = Kerntaak 1
 //                foreach ($kerntaken as $kt => $id) {
 //                    // option value
 //                }
